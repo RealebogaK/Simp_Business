@@ -3,17 +3,17 @@ body {
     justify-content: center;
     align-items: center;
     height: 90vh;
-    background-color: gold;
+    background-color: blue;
 }
 
 #yesButton {
-    position: absolute;
+    position: right;
     margin-left: 150px;
     transition: 0.5s;
 }
 
 #withoutadoubtButton {
-    position: absolute;
+    position: left;
     margin-right: 150px;
 }
 
@@ -37,7 +37,7 @@ body {
 }
 
 .btn {
-    background-color: blue;
+    background-color: gold;
     color: black;
     padding: 15px 32px;
     text-align: center;
