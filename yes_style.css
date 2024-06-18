@@ -3,12 +3,12 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #F80c12 #ee1100 #ff3311 #ff4422 #ff6644 #ff9933 #feae2d #ccbb33 #d0c310 #aacc22 #69d025 #22ccaa #12bdb9 #11aabb #4444dd #3311bb #3b0cbd #442299;
+    background-color: #ff9933;
 }
 
 .header_text {
     font-family: 'Serif';
-    font-size: 50px;
+    font-size: 30px;
     font-weight: bold;
     color: black;
     text-align: center;
