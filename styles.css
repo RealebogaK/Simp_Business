@@ -18,10 +18,10 @@ body {
 }
 
 .header_text {
-    font-family: 'Serif';
+    font-family: 'Brush Script';
     font-size: 40px;
     font-weight: bold;
-    color: black;
+    color: white;
     text-align: center;
     margin-top: 20px;
     margin-bottom: 0px;
@@ -37,8 +37,8 @@ body {
 }
 
 .btn {
-    background-color: purple;
-    color: black;
+    background-color: white;
+    color: pink;
     padding: 15px 32px;
     text-align: center;
     display: inline-block;
