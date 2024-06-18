@@ -3,10 +3,10 @@ body {
     justify-content: center;
     align-items: center;
     height: 90vh;
-    background-color: #F8C8DC;
+    background-color: white;
 }
 
-#noButton {
+#yesButton {
     position: absolute;
     margin-left: 150px;
     transition: 0.5s;
@@ -18,10 +18,10 @@ body {
 }
 
 .header_text {
-    font-family: 'Nunito';
+    font-family: 'Serif';
     font-size: 40px;
     font-weight: bold;
-    color: white;
+    color: black;
     text-align: center;
     margin-top: 20px;
     margin-bottom: 0px;
@@ -37,8 +37,8 @@ body {
 }
 
 .btn {
-    background-color: #FFB6C1;
-    color: white;
+    background-color: white;
+    color: black;
     padding: 15px 32px;
     text-align: center;
     display: inline-block;
